@@ -1,1 +1,2 @@
 # MSc-Project-Acid-rain-analysis
+Acid rain has been pne of the main hazard to the ecological system. It is a result of  sulfur dioxide (SO2) and nitrogen oxides (NOX)  emitted into the atmosphere and transported by wind and air currents. The SO2 and NOX react with water, oxygen and other chemicals to form sulfuric and nitric acids.  These then mix with water and other materials before falling to the ground. Coal combustion has always been one of the main contributors to sulphur dioxide emission in the environment. 
